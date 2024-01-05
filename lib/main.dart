@@ -74,7 +74,6 @@ class _todoListState extends State<todoList> {
                 });
               }
 
-
             }, icon: Icon(Icons.update)),
           );
         },
