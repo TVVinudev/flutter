@@ -109,7 +109,7 @@ class _todoListState extends State<todoList> {
                                   }
                                 });
                               },
-                              child: Text('Add'))
+                              child: Text('Add remove'))
                         ],
                       ),
                     ],
